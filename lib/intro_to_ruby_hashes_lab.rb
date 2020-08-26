@@ -12,5 +12,5 @@ end
 
 
 def id_hash_generator(number)
-  { key: "number" }
+  { id: "number" }
 end
