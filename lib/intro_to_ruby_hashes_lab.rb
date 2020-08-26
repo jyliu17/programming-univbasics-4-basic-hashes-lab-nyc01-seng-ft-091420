@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  { favorite_sport: "football"}
+  { favorite_sport: "football" }
 end
 
 def pioneer
